@@ -1,0 +1,54 @@
+body{
+    background-color:#f7b3a9;
+    margin: 0pc;
+}
+#intro{
+    height: 200px;
+    /* background-color: ; */
+}
+#upperpic{
+    height: 350px;
+    width: 500px;
+    background-image: url(hands-playing-rock-paper-scissors-game-flat-design-style-vector-illustration_540284-598.avif);
+    background-size: contain;
+    background-color:#F8C6BE ;
+    border-radius: 30%;
+}
+#a{
+    font-size: 100px;
+    color: #c2412d;
+}
+#b{
+    font-size: 100px;
+    color: green;
+}
+#c{
+    font-size: 100px;
+    color: rgb(63, 143, 170);
+}
+#d{
+    font-size: 100px;
+    color:rgb(230, 79, 101);
+}
+#div1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    /* text-shadow: 2px 20px 10px black; */
+    font-family:cursive;
+}
+#play{
+    height: 200px;
+    width: 200px;
+    background-image: url(let-s-play-neon-signs-style-text-free-vector.jpg);
+    background-size: cover;
+    border-radius: 25%;
+    box-shadow: 20px 20px 30px black;
+}
+#upimg{
+    height: 300px;
+    background-image:  url(png-clipart-child-care-cartoon-students-kids-child-parent.png) ;
+    background-size:contain;
+    filter: opacity(0.03);
+}
